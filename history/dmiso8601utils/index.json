@@ -1,0 +1,20 @@
+{
+  "schema": 1,
+  "target": "dmiso8601utils.dll",
+  "latest": "207939185-2BBA8F6D11E942080C06E27F2240CB93-1",
+  "builds": [
+    {
+      "key": "207939185-2BBA8F6D11E942080C06E27F2240CB93-1",
+      "timestamp": "207939185",
+      "pdb_guid": "2BBA8F6D11E942080C06E27F2240CB93",
+      "pdb_age": 1,
+      "machine": "0x8664",
+      "ir": "builds/207939185-2BBA8F6D11E942080C06E27F2240CB93-1/ir.json.gz",
+      "previous": null,
+      "diff_json": null,
+      "diff_markdown": null,
+      "summary": null
+    }
+  ],
+  "compression": "gzip"
+}
